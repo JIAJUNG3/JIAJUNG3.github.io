@@ -159,9 +159,13 @@
         line-height: 1.2; 
         text-decoration: underline;
     }
-    .image-button span, .image-button span a, .image-button span a:visited, .image-button span a:hover, .image-button span a:active {
-        text-decoration: none; /* Removes all text decoration */
-        color: inherit; /* Keeps the color consistent with the span */
+    .image-button span,
+    .image-button span a,
+    .image-button span a:visited,
+    .image-button span a:hover,
+    .image-button span a:active {
+        text-decoration: none;
+        color: inherit;
     }
     .mobile{
         display:none;
